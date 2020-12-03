@@ -1,0 +1,47 @@
+@charset "utf-8";
+body {
+    background-color: #E4E7ED;
+}
+header {
+    height: 100px;
+    background-color: #7D7B7B;
+    color: #000000;
+    text-align: center;
+    padding-top: 8px;
+}
+header h1 {
+    margin-top: 28px;
+}
+
+footer {
+    background-color: #9A9A9A;
+    text-align: center;
+    padding-bottom: 26px;
+    margin-top: 494px;
+    margin-bottom: 488px;
+    color: #FFFFFF;
+    padding-top: 0px;
+}
+
+
+p {
+    text-align: center;
+    font-size: 40px;
+    color: #757575;
+}
+footer p {
+    color: #FFFCFC;
+    margin-top: 37px;
+    text-align: center;
+    margin-bottom: 31px;
+    margin-left: 17px;
+    margin-right: 14px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 49px;
+    font-size: 30px;
+    color: #000000;
+}

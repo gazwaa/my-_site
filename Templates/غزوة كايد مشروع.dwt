@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>تطوير الذات </title>
+<!-- TemplateEndEditable -->
+<link href="../صور تطوير الذات/style.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	
+	
+
+	
+	
+		
+  <header class="Header">منصة  لتطوير الذات<img src="../صور تطوير الذات/logo.png" width="142" height="78" alt=""/>
+<h1></h1> 
+</header>
+<nav>
+		 
+	
+    <a href=""> الصفحة الرئيسية </a>
+    <a href="../الدورات.html"> الدورات 
+    </a>
+    <a href="../نصائح.html"> نصائح  </a>
+	
+   	<a href="../اتصل بنا.html">
+		
+		اتصل بنا  </a>
+	 
+	  
+</nav>
+<video controls="controls" muted="muted" autoplay="autoplay" loop="loop" >
+  <source src="../صور تطوير الذات/فيديو.mp4" type="video/mp4">
+  <iframe width="300" height="300" src="https://www.youtube.com/embed/Fr0AtrAUO_c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</video>
+		<h1>منصة الالكترونية   </h1>
+<p>  تهتم بتطوير  الفرد  والمجتمع  ولكل المهتمين بالتطوير الذات  </p>
+	
+	<main> 
+	  
+	</main>
+	  
+	  
+	
+	
+	
+	
+	
+	
+	
+	
+<footer> 
+<p>  
+	
+	جميع الحقوق محفوظة ©  2020
+</p>
+	</footer>
+</div>
+	
+</body>
+</html>
